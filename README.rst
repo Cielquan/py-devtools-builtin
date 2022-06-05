@@ -36,3 +36,5 @@ Simply install this package alongside ``devtools`` and you have its toolset avai
 without an explicit import::
 
     $ pip install devtools py-devtools-builtin
+
+If you do not have ``devtools`` installed, ``py-devtools-builtin`` will installed it for you.
