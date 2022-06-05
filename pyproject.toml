@@ -5,7 +5,7 @@
 
 [tool.poetry]
     name = "py-devtools-builtin"
-    version = "1.0.0"
+    version = "1.1.0"
     description = "Add devtools.debug() to python builtins"
     authors = ["Cielquan <cielquan@protonmail.com>"]
     license = "Unlicense"
