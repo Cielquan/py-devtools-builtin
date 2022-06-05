@@ -32,3 +32,4 @@
 
     [tool.poetry.dependencies]
         python = "^3.6"
+        devtools = {extras = ["pygments"], version = "*"}
