@@ -37,4 +37,4 @@ without an explicit import::
 
     $ pip install devtools py-devtools-builtin
 
-If you do not have ``devtools`` installed, ``py-devtools-builtin`` will installed it for you.
+If you do not have ``devtools`` installed, ``py-devtools-builtin`` will install it for you.
